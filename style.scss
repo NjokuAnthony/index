@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tony{
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+button{
+    width: 250px;
+    color: #fff;
+    background: red;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px grey;
+    font-weight: bold;
+    font-size: 25px;
+
+    &hover:
+
+}
